@@ -1,0 +1,42 @@
+@keyframes scale4 {
+  0% {
+    left: -2%;
+  }
+  10% {
+    background-color: red;
+    height: 10%;
+  }
+  20% {
+    background-color: orangered;
+  }
+  30% {
+    background-color: orange;
+    height: 40%;
+  }
+  40% {
+    background-color: yellow;
+  }
+  50% {
+    background-color: yellowgreen;
+    height: 10%;
+  }
+  60% {
+    background-color: green;
+  }
+  70% {
+    background-color: lightseagreen;
+    height: 40%;
+  }
+  80% {
+    background-color: blue;
+  }
+  90% {
+    background-color: darkblue;
+    height: 10%;
+  }
+  100% {
+    transform: scaleY(1);
+    background-color: white;
+    left: 100%;
+  }
+}
