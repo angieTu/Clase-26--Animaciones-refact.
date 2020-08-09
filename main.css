@@ -11,7 +11,7 @@ body {
   align-items: center; }
   .container .box {
     height: 40%;
-    width: 25px;
+    width: 2%;
     margin: auto 9px;
     position: absolute;
     border-radius: 15px;
@@ -68,22 +68,26 @@ body {
     background-color: red;
     height: 10%; }
   20% {
-    background-color: orangered; }
+    background-color: orangered;
+    height: 40%; }
   30% {
     background-color: orange;
-    height: 40%; }
+    height: 10%; }
   40% {
-    background-color: yellow; }
+    background-color: yellow;
+    height: 40%; }
   50% {
     background-color: yellowgreen;
     height: 10%; }
   60% {
-    background-color: green; }
+    background-color: green;
+    height: 40%; }
   70% {
     background-color: lightseagreen;
-    height: 40%; }
+    height: 10%; }
   80% {
-    background-color: blue; }
+    background-color: blue;
+    height: 40%; }
   90% {
     background-color: darkblue;
     height: 10%; }
